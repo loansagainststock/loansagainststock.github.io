@@ -5063,16 +5063,16 @@ body .ui-tooltip {
 }
 
 .header__logo {
-  max-width: 188px;
+  /*max-width: 188px;*/
 }
 @media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px) {
   .header__logo {
-    max-width: 150px;
+    /*max-width: 150px;*/
   }
 }
 @media (max-width:450px) {
   .header__logo {
-    max-width: 150px;
+    /*max-width: 150px;*/
   }
 }
 .header__logo.header__logo-3 {
